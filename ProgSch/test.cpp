@@ -1,5 +1,6 @@
 #include <iostream>
 #include <algorithm>
+#include <vector>
 using namespace std;
 
 int solution(const vector<int> arr){
