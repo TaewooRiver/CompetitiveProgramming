@@ -1,0 +1,3 @@
+command to create alias for running the python test program:
+alias run='python /workspace/CompetitiveProgramming/BOJ/test.py'
+
